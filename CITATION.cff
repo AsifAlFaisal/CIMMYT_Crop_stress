@@ -1,0 +1,15 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Faisal"
+  given-names: "Asif Al"
+  orcid: "https://orcid.org/0000-0002-3284-4617"
+- family-names: "Hasan"
+  given-names: "M Alfie"
+  orcid: ""
+title: "CIMMYT Crop Stress Analysis"
+version: 1.0
+doi: 10.5281/zenodo.10212134
+date-released: 2023-11-28
+url: "https://github.com/AsifAlFaisal/CIMMYT_Crop_stress"
+
