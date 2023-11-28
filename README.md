@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/724450773.svg)](https://zenodo.org/doi/10.5281/zenodo.10212133)
+
 # CIMMYT Crop Stress Analysis
 
 A collaborative git project for CIMMYT Bangladesh, M. Alfi Hasan, PhD, Asif Al Faisal, Sk. Ghulam Hussain.
